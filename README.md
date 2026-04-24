@@ -1,8 +1,6 @@
-![Banner Description](Dark Souls Gamer GIF by BANDAI NAMCO.gif)
 <img src="Dark Souls Gamer GIF by BANDAI NAMCO.gif" align="center">
-## Hi there 👋
 
-<!--
+<!--![Banner Description](Dark Souls Gamer GIF by BANDAI NAMCO.gif)
 **rixramos/rixramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
